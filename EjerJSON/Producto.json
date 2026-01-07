@@ -1,0 +1,9 @@
+{
+    "nombre": "josu",
+    "precio": 10.2,
+    "categorias": [
+        "limpieza",
+        "Comida",
+        "deportivo"
+    ]
+}

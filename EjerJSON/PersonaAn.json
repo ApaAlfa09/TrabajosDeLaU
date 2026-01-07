@@ -1,0 +1,15 @@
+{
+    "nombre": "josu",
+    "edad": 19,
+    "correo": "jo@gmail",
+    "animales": [
+        {
+            "tipo": "perro",
+            "color": "cafe"
+        },
+        {
+            "tipo": "gato",
+            "color": "negro"
+        }
+    ]
+}

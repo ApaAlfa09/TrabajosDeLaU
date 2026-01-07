@@ -1,0 +1,28 @@
+{
+    "nombre": "josue",
+    "edad": 19,
+    "correo": "jo@gmail",
+    "animales": [
+        {
+            "nombre": "gaston",
+            "tipo": "gato",
+            "citas": [
+                {
+                    "fecha": "23-5-25",
+                    "motivo": "vacunas"
+                }
+            ]
+        },
+        {
+            "nombre": "max",
+            "tipo": "perro",
+            "citas": [
+                {
+                    "fecha": "24-5-25",
+                    "motivo": "corte de pelo"
+                }
+            ]
+        }
+
+    ]
+}
