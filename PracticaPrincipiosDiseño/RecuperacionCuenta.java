@@ -1,7 +1,4 @@
-import java.util.Scanner;
-
 public class RecuperacionCuenta {
-    Scanner scanner = new Scanner(System.in);
 
     public void recoverEmail(){
         /* System.out.println("Write your email");

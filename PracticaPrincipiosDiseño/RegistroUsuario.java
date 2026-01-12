@@ -1,8 +1,4 @@
-
-import java.util.Scanner;
-
 public class RegistroUsuario {
-    Scanner scanner = new Scanner(System.in);
 
     public void register(){
         /* System.out.println("Write your email");
